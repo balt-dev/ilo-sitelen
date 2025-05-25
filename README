@@ -1,0 +1,9 @@
+# ilo-sitelen
+
+A toki pona writing mode for Fcitx5.
+
+Based on jan Komi's [ibus input table](https://github.com/neroist/sitelen-pona-ucsur-guide/blob/main/ibus-tables/sitelen-pona.ibus-table).
+
+## Installation
+
+Download the repository, and copy the `table` and `inputmethod` folders (not their content, the actual folders) to your `~/.local/share/fcitx5` directory.
