@@ -6,4 +6,7 @@ Based on jan Komi's [ibus input table](https://github.com/neroist/sitelen-pona-u
 
 ## Installation
 
-Download the repository, and copy the `table` and `inputmethod` folders (not their content, the actual folders) to your `~/.local/share/fcitx5` directory.
+First, install `fcitx5-chinese-addons` (might be named `fcitx5-table` on your distribution),
+as it adds the required `table` input method.
+
+Download the repository, and run `./install.sh`.
